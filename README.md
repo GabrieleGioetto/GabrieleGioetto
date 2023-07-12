@@ -1,7 +1,8 @@
-👋 Hi, I’m @GabrieleGioetto, I'm a Data Science master student doing a double degree between EURECOM and Politechnic of Turin
+👋 Hi, I’m @GabrieleGioetto
 
 - 👀 I’m interested in Machine Learning, **Natural Language Processing**, Math and Web Development
-- 🏢 I’m currently working at **SAP Labs France** as a Research Engineer Intern
+- 🏫 I completed my master degree in Data Science and Engineering doing a double degree program between the Polytechnic of Turin 🇮🇹 and EURECOM 🇫🇷
+- 🏢 I’m currently working at [Instadeep](https://www.instadeep.com/) as a Research Engineer
 - 📫 How to reach me: mail: gabriele.gioetto@gmail.com
 
 TECHNOLOGIES:
